@@ -1,0 +1,15 @@
+.tshirt-container{
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 20px;
+}
+.tshirt-container img {
+    height: 250px;
+}
+.tshirt-container button{
+    border: none;
+   font-size: 20px;
+   padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}
